@@ -1,2 +1,4 @@
 Mouse
 keyboard
+printer
+monitor
